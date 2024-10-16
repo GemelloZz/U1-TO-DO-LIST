@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  margin-top: 10%;
+  background-color: aqua;
+}
+
+h1 {
+  color: red;
+  text-decoration: underline;
+  font-size: 10em;
+}
+
+label,
+input {
+  font-size: 5rem;
+}
+input {
+  border: 0px;
+  background-color: aqua;
+}
+button {
+  font-size: 2rem;
+  margin-inline: auto;
+  display: block;
+  margin-top: 5rem;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: red;
+}
+
+#saved {
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+.delete {
+  text-decoration: line-through;
+}
